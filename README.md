@@ -9,7 +9,7 @@ The report analyzes agent performance, customer satisfaction, operational effici
 
 ## 📄 Documentation
 View the complete collection of DAX measures and explanations:  
-👉 **[analysis.md](./analysis.md)**
+👉 **[DAX Analysis](./analysis.md)**
 
 ---
 
