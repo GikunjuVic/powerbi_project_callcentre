@@ -1,4 +1,3 @@
-# powerbi_project_callcentre
 
 # 📊 Call Centre Analysis — Power BI Project
 
@@ -9,7 +8,7 @@ The report analyzes agent performance, customer satisfaction, operational effici
 
 ## 📄 Documentation
 View the complete collection of DAX measures and explanations:  
-👉 **[DAX Analysis](./analysis.md)**
+👉 **[Call Centre DAX Analysis](./analysis.md)**
 
 ---
 
