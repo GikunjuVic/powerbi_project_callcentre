@@ -12,7 +12,7 @@ View the complete collection of DAX measures and explanations:
 
 ---
 
-## 🧩 Skills Highlighted
+## Skills Highlighted
 - Power BI (Data Modeling, DAX, Visualization)
 - KPI & Performance Reporting  
 - Operational and Customer Experience Analytics  
