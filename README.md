@@ -1,5 +1,5 @@
 
-# 📊 Call Centre Analysis — Power BI Project
+# 📊 Call Centre Analysis - Power BI Project
 
 A Power BI project focused on transforming raw call centre data into clear, actionable insights.  
 The report analyzes agent performance, customer satisfaction, operational efficiency, and time-based trends using clean data modeling and optimized DAX measures.
