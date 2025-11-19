@@ -1,3 +1,31 @@
+# 📞 Call Centre Analysis — DAX Measures Documentation
+
+This document contains all DAX measures used in the Call Centre Analysis Power BI report.  
+The goal is to organize all calculated metrics in one place for transparency, reusability, and easier maintenance.
+
+Each measure is stored inside a dedicated **Measure Table**, which helps keep the data model clean and improves report readability.
+
+---
+
+# 📘 Table of Contents
+
+1. [Measure Table Set Up](#measure-table-set-up)
+2. [Avg Call Handling Time](#avg-call-handling-time)
+3. [Calls Abandoned %](#calls-abandoned-)
+4. [Calls Resolved %](#calls-resolved-)
+5. [CSAT](#csat)
+6. [Last Call](#last-call)
+7. [Speed of Answer](#speed-of-answer)
+8. [Total Call Answered](#total-call-answered)
+9. [Total Calls](#total-calls)
+10. [Day Name](#day-name)
+11. [Hour](#hour)
+12. [Hour Order By](#hour-order-by)
+13. [Month](#month)
+14. [Satisfaction Level](#satisfaction-level)
+15. [Week Day Number](#week-day-number)
+
+
 # Measure Table Set Up
 
 Created a measure table to store all measures in one organized location instead of mixing them with fact or dimension tables.  
