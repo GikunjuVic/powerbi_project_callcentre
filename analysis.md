@@ -174,8 +174,8 @@ Satisfaction Level =
 SWITCH(
         TRUE(),
         ISBLANK('Calls '[satisfaction rating]), "Not Served", 
-        'Calls '[satisfaction rating] = 1, "Very Disatisfied",
-        'Calls '[satisfaction rating] = 2, "Disatisfied",        
+        'Calls '[satisfaction rating] = 1, "Very Dissatisfied",
+        'Calls '[satisfaction rating] = 2, "Dissatisfied",        
         'Calls '[satisfaction rating] = 3, "Normal",
         'Calls '[satisfaction rating] = 4, "Satisfied",
         'Calls '[satisfaction rating] = 5, "Very Satisfied"
