@@ -1,0 +1,8 @@
+# Measure Table Set Up
+
+Created a measure table store all measures in one organized location instead of mixing them with fact or dimension tables.
+It improves the data model structure, readability, and makes reports easier to maintain.
+
+```DAX
+measures_table = GENERATESERIES(-1,1,1) 
+```
